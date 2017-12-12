@@ -12,9 +12,10 @@ Form=frmcncel.frm
 IconForm="frmMenu"
 Startup="frmLogin"
 HelpFile=""
+Title="Burger"
 ExeName32="Project1.exe"
 Command32=""
-Name="Burger"
+Name="Food_Ordering_Sonkar"
 HelpContextID="0"
 CompatibleMode="0"
 MajorVer=1
@@ -38,6 +39,7 @@ Unattended=0
 Retained=0
 ThreadPerObject=0
 MaxNumberOfThreads=1
+DebugStartupOption=0
 
 [MS Transaction Server]
 AutoRefresh=1
